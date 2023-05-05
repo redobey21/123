@@ -1,0 +1,7 @@
+{
+  "mongoURL": "mongodb+srv://testmongo:19071998iv@cluster0.qbugkaf.mongodb.net/?retryWrites=true&w=majority",
+  "clientID": "1102972018242109490",
+  "token": "",
+  "secret": "Ldv76D5H1nQRuUbivn-I_xhJN0JijOlj",
+  "callbackURL": "https://universalweb2.glitch.me"
+}
